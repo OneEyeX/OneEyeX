@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chedly_chahed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchedly_chahed&screen_name=chedly_chahed)
 
-## I'm a Developer full stack
+## I'm a full stack developer
 
 - 🌱 I’m currently learning everything related to web development.🤣
 - 👯 I’m looking to collaborate with other developers and exchange knowledge.
