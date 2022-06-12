@@ -6,7 +6,7 @@
 
 # [![website](./img/cvSm.png) Check CV](https://oneeyex.github.io/Chedly-Chahed-CV/)
 
-## I'm a full stack developer
+## I am a full stack developer
 
 - 🌱 I’m currently learning everything related to web development.🤣
 - 👯 I’m looking to collaborate with other developers and exchange knowledge.
