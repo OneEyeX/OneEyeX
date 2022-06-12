@@ -4,6 +4,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chedly_chahed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchedly_chahed&screen_name=chedly_chahed)
 
+# [![website](./img/cvSm.png) Check CV](https://oneeyex.github.io/Chedly-Chahed-CV/)
+
 ## I'm a full stack developer
 
 - 🌱 I’m currently learning everything related to web development.🤣
