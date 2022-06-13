@@ -12,8 +12,8 @@
 - 👯 I’m looking to collaborate with other developers and exchange knowledge.
 - 🥅 2022-23 Goals: Learn more about web development and web3.
 - ⚡ Fun fact: I love to draw, to dive and play video games.
-- 📫 How to reach me **chedly.chahed@insat.u-carthage.tn** or **chedly.chahed@etudiant-fst.utm.tn**
-
+- 📫 How to reach me ? Via : **chedly.chahed@insat.u-carthage.tn** or **chedly.chahed@etudiant-fst.utm.tn**
+### OR
 ### Connect with me :
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A#gh-light-mode-only)
