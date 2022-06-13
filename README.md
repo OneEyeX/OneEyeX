@@ -1,10 +1,16 @@
-# Hi there, I'm Chedly - aka [OneEyeX][youtube] 👋
+<!-- # Hi there, I'm Chedly - aka [OneEyeX][youtube] 👋 -->
+<h1 align="center">Hi there 👋, I'm Chedly Chahed - aka <a href="https://www.linkedin.com/in/chedly-chahed-a178a9196/" target="_blank"> OneEyeX </a> </h1>
+<h3 align="center"> Software Engineering and Information Systems student and self-taught full stack developer</h3>
+<h1></h1>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+# [![website](./img/cvSm.png) Check my Resume](https://oneeyex.github.io/Chedly-Chahed-CV/)
 
+### follow me on Twitter :
 [![Twitter Follow](https://img.shields.io/twitter/follow/chedly_chahed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchedly_chahed&screen_name=chedly_chahed)
 
-# [![website](./img/cvSm.png) Check CV](https://oneeyex.github.io/Chedly-Chahed-CV/)
+### check my Youtube channel :
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+
 
 ## I am a full stack developer
 
@@ -16,14 +22,15 @@
 ### OR
 ### Connect with me :
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A#gh-dark-mode-only)
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/chedly-chahed-a178a9196/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chedly-chahed-a178a9196/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/chedly_chahed#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/chedly_chahed#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/chedly-chahed-a178a9196/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chedly-chahed-a178a9196/#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/chedly_chahed/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/chedly_chahed/#gh-dark-mode-only)
@@ -59,11 +66,11 @@
 
 ### Databases :
 
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="oracle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+
 <br/><br/>
 
 ### Git & GitHub :
@@ -78,13 +85,15 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A)
 ---
+## GitHub Stats and most used languages
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!-- <details> -->
+  <!-- <summary>:zap: GitHub Stats</summary> -->
 
-  <img align="left" alt="OneEyeX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OneEyeX&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <p><img align="left" alt="OneEyeX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OneEyeX&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></p>
 
-</details>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OneEyeX&show_icons=true&locale=en&layout=compact" alt="OneEyeX" /></p>
+<!-- </details> -->
 
 [twitter]: https://twitter.com/chedly_chahed
 [youtube]: https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A
