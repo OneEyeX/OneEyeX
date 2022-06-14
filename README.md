@@ -19,6 +19,8 @@
 
  </div>
  
+# 👨‍💻 About me :
+
 ## I am a full stack developer
 
 - 🌱 I’m currently learning everything related to **web development**. 🤣
