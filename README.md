@@ -14,10 +14,10 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=OneEyeX&label=Profile%20views&color=0e75b6&style=flat" alt="OneEyeX" /> </p>
   
   
-### follow me on Twitter :
+### Follow me on Twitter :
 [![Twitter Follow](https://img.shields.io/twitter/follow/chedly_chahed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchedly_chahed&screen_name=chedly_chahed)
 
-### check my Youtube channel :
+### Check my Youtube channel :
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
  </div>
