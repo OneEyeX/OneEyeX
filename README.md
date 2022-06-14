@@ -1,7 +1,7 @@
 <!-- # Hi there, I'm Chedly - aka [OneEyeX][youtube] 👋 -->
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>, </h1>
+<h1 align="center"> I'm Chedly Chahed - aka <a href="https://www.linkedin.com/in/chedly-chahed-a178a9196/" target="_blank"> OneEyeX </a> 
 
-<h1 align="center">Hi there 👋, I'm Chedly Chahed - aka <a href="https://www.linkedin.com/in/chedly-chahed-a178a9196/" target="_blank"> OneEyeX </a> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/>
 </h1>
 <h3 align="center"> Software Engineering and Information Systems student and self-taught full stack developer</h3>
 <h1></h1>
