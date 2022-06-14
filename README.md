@@ -9,6 +9,7 @@
   
 # [![website](./img/cvSm.png) Check my Resume](https://oneeyex.github.io/Chedly-Chahed-CV/)
 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=OneEyeX&label=Profile%20views&color=0e75b6&style=flat" alt="OneEyeX" /> </p>
   
   
 ### follow me on Twitter :
