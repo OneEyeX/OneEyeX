@@ -1,20 +1,24 @@
 <!-- # Hi there, I'm Chedly - aka [OneEyeX][youtube] 👋 -->
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>, </h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> </h1>
 <h1 align="center"> I'm Chedly Chahed - aka <a href="https://www.linkedin.com/in/chedly-chahed-a178a9196/" target="_blank"> OneEyeX </a> 
 
 </h1>
 <h3 align="center"> Software Engineering and Information Systems student and self-taught full stack developer</h3>
 <h1></h1>
-
+<div align="center">
+  
 # [![website](./img/cvSm.png) Check my Resume](https://oneeyex.github.io/Chedly-Chahed-CV/)
 
+  
+  
 ### follow me on Twitter :
 [![Twitter Follow](https://img.shields.io/twitter/follow/chedly_chahed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchedly_chahed&screen_name=chedly_chahed)
 
 ### check my Youtube channel :
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
-
+ </div>
+ 
 ## I am a full stack developer
 
 - 🌱 I’m currently learning everything related to **web development**. 🤣
@@ -40,7 +44,7 @@
 
 
 ## Professional skills :
-### Tools :
+### :hammer_and_wrench: Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
@@ -48,7 +52,7 @@
 <img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <br/><br/>
 
-### Languages :
+### :computer: Languages :
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -69,7 +73,7 @@
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" /><br /><br />
 
 
-### Databases :
+### :card_file_box: Databases :
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
@@ -78,7 +82,7 @@
 
 <br/><br/>
 
-### Git & GitHub :
+### :white_check_mark: Git & GitHub :
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
