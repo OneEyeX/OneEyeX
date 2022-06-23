@@ -3,7 +3,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=OneEyeX&label=Profile%20views&color=0e75b6&style=flat" alt="OneEyeX" /> </p>
   
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> </h1>
-<h1 align="center"> I'm Chedly Chahed - aka <a href="https://www.linkedin.com/in/chedly-chahed-a178a9196/" target="_blank"> OneEyeX </a> 
+<h1 align="center"> I'm Chedly Chahed - aka <a href="https://www.linkedin.com/in/chedly-chahed/" target="_blank"> OneEyeX </a> 
 
 </h1>
 <h3 align="center"> Software Engineering and Information Systems student and self-taught full stack developer</h3>
@@ -41,8 +41,8 @@
 ### Connect with me :
 
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/chedly-chahed-a178a9196/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chedly-chahed-a178a9196/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/chedly-chahed/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chedly-chahed/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/chedly_chahed#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/chedly_chahed#gh-dark-mode-only)
@@ -121,4 +121,4 @@
 [twitter]: https://twitter.com/chedly_chahed
 [youtube]: https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A
 [instagram]: https://www.instagram.com/chedly_chahed/
-[linkedin]: https://www.linkedin.com/in/chedly-chahed-a178a9196/
+[linkedin]: https://www.linkedin.com/in/chedly-chahed/
