@@ -177,7 +177,12 @@
 ### :white_check_mark: Git, GitHub & GitLab :
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+   
+<!--<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />-->
+ 
+ <a href="https://github.com/OneEyeX/OneEyeX/#gh-light-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;"  src="./img/github-light.svg" alt="@chedly_chahed" height="30" width="40" /></a> 
+<a href="https://github.com/OneEyeX/OneEyeX/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;"  src="./img/github-dark.svg" alt="@chedly_chahed" height="30" width="40" /></a> 
+   
 <img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 <br /><br />
 <br />
