@@ -48,15 +48,18 @@
 <p align="left">
 <a href="https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Chedly" height="30" width="40" /></a>
 <a href="mailto:chedly.chahed@insat.u-carthage.tn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="chedly" height="30" width="40" /></a>
-<a href="https://twitter.com/chedly_chahed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chedly" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chedly-chahed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@chedly-chahed" height="30" width="40" /></a>
+<a href="https://twitter.com/chedly_chahed/" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chedly" height="30" width="40" />
+ </a>
+<a href="https://www.linkedin.com/in/chedly-chahed/#gh-light-mode-only" target="blank"><img align="center" src="./img/linkedin-light.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
+ <a href="https://www.linkedin.com/in/chedly-chahed//#gh-dark-mode-only" target="blank"><img align="center" src="./img/linkedin-dark.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/chedly_chahed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chedly" height="30" width="40" /></a>
 </p>
 
 <!--
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/chedly-chahed/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chedly-chahed/#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chedly-chahed//#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/chedly_chahed#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/chedly_chahed#gh-dark-mode-only)
