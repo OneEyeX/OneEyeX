@@ -34,6 +34,8 @@
  
 # 👨‍💻 About me :
 
+<div id="TP"></div>
+
 ## I am a web developer and I use **Django** and **Flask**
 
 - 🌱 I’m currently learning everything related to **web development**. 🤣
@@ -47,7 +49,8 @@
 
 <p align="left">
  
-<a href="mailto:chedly.chahed@insat.u-carthage.tn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="chedly" height="30" width="40" /></a>
+<a href="TP#gh-dark-mode-only" ><img align="center" src="./img/gmail-light.svg" alt="chedly" height="30" width="40" /></a>
+<a href="TP#gh-light-mode-only"><img align="center" src="./img/gmail-dark.svg" alt="chedly" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chedly-chahed/#gh-light-mode-only" target="blank"><img align="center" src="./img/linkedin-light.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/chedly-chahed/#gh-dark-mode-only" target="blank"><img align="center" src="./img/linkedin-dark.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
 <a href="https://twitter.com/chedly_chahed/#gh-light-mode-only" target="blank"><img align="center" src="./img/twitter-light.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
