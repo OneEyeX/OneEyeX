@@ -32,7 +32,7 @@
 
  </div>
  
-# 👨‍💻 About me :
+# ❓ About me :
 
 ## I am a web developer and I use **Django** and **Flask**
 
@@ -41,8 +41,8 @@
 - 🥅 **2022-23 Goals**: Learn more about **web3** and **web development** using other technologies and.
 - ⚡ Fun fact: I love to draw, to dive and play video games.
 - 📫 How to reach me ? Via : **chedly.chahed@insat.u-carthage.tn** or **chedly.chahed@etudiant-fst.utm.tn**
-<!--### OR -->
-### Connect with me :
+<!--### OR 📲 -->
+### 📱 Connect with me :
 
 
 <p align="left">
@@ -87,10 +87,10 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/chedly_chahed/#gh-dark-mode-only) -->
 
 
-## Professional skills :
+# 👨‍💻 Professional skills :
 
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">⚒️ Tech Stack:</h3>
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
