@@ -8,7 +8,7 @@
 <h1 align="center"> I'm Chedly Chahed - aka <a href="https://www.linkedin.com/in/chedly-chahed/" target="_blank"> OneEyeX </a> 
 
 </h1>
-<h3 align="center"> Software Engineering and Information Systems student and self-taught full stack developer</h3>
+<h3 align="center"> Software Engineering and Information Systems student and self-taught web developer</h3>
 <h1></h1>
 <div align="center">
   
