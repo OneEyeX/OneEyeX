@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning everything related to **web development**. 🤣
 - 👯 I’m looking to **collaborate with other developers and exchange knowledge**.
-- 🥅 **2022-23 Goals**: Learn more about **web3** and **web development** using other technologies and.
+- 🥅 **2022-23 Goals**: Learn more about **web3** and **web development** using other technologies.
 - ⚡ Fun fact: I love to draw, to dive and play video games.
 - 📫 How to reach me ? Via : **chedly.chahed@insat.u-carthage.tn** or **chedly.chahed@etudiant-fst.utm.tn**
 <!--### OR 📲 -->
