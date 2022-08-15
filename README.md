@@ -121,8 +121,14 @@
   <a href="https://www.postgresql.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="sqlite" width="40" height="40"/>
     </a> 
+    <a href="https://www.sqlalchemy.org/" target="_blank">
+    <img src="img/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
+    </a>
   <a href="https://heroku.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
     </a>
     </p>
 
@@ -185,12 +191,12 @@
 <br /><br />
 <br />
 ---
-
+<!--
 ### 📺 Latest YouTube Videos
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A)
 ---
-
+-->
 <!--
 
 ## GitHub Stats and most used languages
