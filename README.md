@@ -134,12 +134,13 @@
 
 
 
-### :hammer_and_wrench: Tools :
+### :hammer_and_wrench: Tools & Softwares :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="jetbrains" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
 <img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" style="padding-right:10px;" />
 <br/><br/>
 
 ### :computer: Other programming languages and technologies :
@@ -217,6 +218,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=OneEyeX&show_icons=true&locale=en" alt="OneEyeX" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OneEyeX&" alt="OneEyeX" /></p>
 
 
 [twitter]: https://twitter.com/chedly_chahed
