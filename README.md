@@ -45,16 +45,16 @@
 
 <a href="https://www.linkedin.com/in/chedly-chahed/#gh-light-mode-only" target="blank"><img align="center" src="./img/linkedin-light.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/chedly-chahed/#gh-dark-mode-only" target="blank"><img align="center" src="./img/linkedin-dark.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
-<a href="https://twitter.com/chedly_chahed/#gh-light-mode-only" target="blank"><img align="center" src="./img/twitter-light.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
-<a href="https://twitter.com/chedly_chahed/#gh-dark-mode-only" target="blank"><img align="center" src="./img/twitter-dark.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A#gh-light-mode-only" target="blank"><img align="center" src="./img/youtube-light.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A/#gh-dark-mode-only" target="blank"><img align="center" src="./img/youtube-dark.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
-<a href="https://www.instagram.com/chedly_chahed/#gh-light-mode-only" target="blank"><img align="center" src="./img/instagram-light.svg" alt="@chedly_chahed" height="30" width="40" /></a> 
-<a href="https://www.instagram.com/chedly_chahed/#gh-dark-mode-only" target="blank"><img align="center" src="./img/instagram-dark.svg" alt="@chedly_chahed" height="30" width="40" /></a> 
- <a href="https://github.com/OneEyeX/OneEyeX/#gh-light-mode-only" target="blank"><img align="center" src="./img/github-light.svg" alt="@chedly_chahed" height="30" width="40" /></a> 
+<a href="https://github.com/OneEyeX/OneEyeX/#gh-light-mode-only" target="blank"><img align="center" src="./img/github-light.svg" alt="@chedly_chahed" height="30" width="40" /></a> 
 <a href="https://github.com/OneEyeX/OneEyeX/#gh-dark-mode-only" target="blank"><img align="center" src="./img/github-dark.svg" alt="@chedly_chahed" height="30" width="40" /></a> 
 <a href="mailto:chedly.chahed@insat.u-carthage.tn" target="blank"><img align="center" src="./img/gmail.svg" alt="chedly" height="30" width="40" /></a>
- 
+ <!--<a href="https://twitter.com/chedly_chahed/#gh-light-mode-only" target="blank"><img align="center" src="./img/twitter-light.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
+<a href="https://twitter.com/chedly_chahed/#gh-dark-mode-only" target="blank"><img align="center" src="./img/twitter-dark.svg" alt="@chedly-chahed" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/chedly_chahed/#gh-light-mode-only" target="blank"><img align="center" src="./img/instagram-light.svg" alt="@chedly_chahed" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/chedly_chahed/#gh-dark-mode-only" target="blank"><img align="center" src="./img/instagram-dark.svg" alt="@chedly_chahed" height="30" width="40" /></a>
+--> 
 </p>
  
  
