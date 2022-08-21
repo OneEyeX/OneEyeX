@@ -113,6 +113,7 @@
     <a href="https://reactjs.org/" target="_blank"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/" target="_blank"> 
+     <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a> 
     <a href="https://www.postgresql.org/" target="_blank"> 
@@ -128,8 +129,9 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
     </a>
     <a href="https://www.docker.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
+   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
     </p>
 
 
@@ -140,7 +142,8 @@
 <img align="left" alt="intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="jetbrains" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
 <img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
+   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="27" style="padding-right:10px;"/>  
 <br/><br/>
 
 ### :computer: Other programming languages and technologies :
