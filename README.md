@@ -214,7 +214,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneEyeX&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneEyeX&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneEyeX&langs_count=8&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=OneEyeX&show_icons=true&locale=en" alt="OneEyeX" /></p>
 
