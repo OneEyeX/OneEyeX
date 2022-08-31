@@ -191,8 +191,9 @@
 <img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 <br /><br />
 <br />
----
+
 <!--
+---
 ### 📺 Latest YouTube Videos
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDNprFthWj1cBHZX08HaZ8A)
@@ -212,7 +213,7 @@
  </details> -->
 
 
-## &#x1f4c8; GitHub Stats
+# &#x1f4c8; GitHub Stats :
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneEyeX&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneEyeX&langs_count=8&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
