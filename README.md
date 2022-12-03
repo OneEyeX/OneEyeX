@@ -29,7 +29,7 @@
  
 #  &nbsp;  <br> ❓ About me :
 
-## I am a web developer and I use **Django** and **Flask**
+## I am a Web & DevOps developer and I use **Django** and **Flask** , **AWS** and **Microsoft Azure**
 
 - 🌱 I’m currently learning everything related to **web development**. 🤣
 - 👯 I’m looking to **collaborate with other developers and exchange knowledge**.
