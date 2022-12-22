@@ -31,7 +31,7 @@
 
 ## I am a Web & DevOps developer and I use **Django** and **Flask** , **AWS** and **Microsoft Azure**
 
-- 🌱 I’m currently learning everything related to **web development**. 🤣
+- 🌱 I’m currently learning everything related to **Web Development** and **Cloud DevOps**. 🤣
 - 👯 I’m looking to **collaborate with other developers and exchange knowledge**.
 - 🥅 **2022-23 Goals**: Learn more about **web3** and **web development** using other technologies.
 - ⚡ Fun fact: I love to draw, to dive and play video games.
