@@ -5,10 +5,10 @@
 <h1 align="center">Hi there <img width="70" height="70" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">,
   
 </h1>
-<h1 align="center"> I'm Chedly Chahed - aka <a href="https://www.linkedin.com/in/chedly-chahed/" target="_blank"> OneEyeX </a> 
+<h1 align="center"> I'm Chedly CHAHED - aka <a href="https://www.linkedin.com/in/chedly-chahed/" target="_blank"> OneEyeX </a> 
 
 </h1>
-<h3 align="center"> Software Engineering and Information Systems freshly-graduated student and self-taught web developer</h3>
+<h3 align="center"> CS Engineering student and self-taught web developer</h3>
 <h1></h1>
 <div align="center">
   
