@@ -223,12 +223,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneEyeX&langs_count=8&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=OneEyeX&show_icons=true&theme=dracula&locale=en" alt="OneEyeX" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OneEyeX&theme=dracula&" alt="OneEyeX" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=OneEyeX&show_icons=true&theme=dracula&locale=en" alt="OneEyeX" width="400" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OneEyeX&theme=dracula&" alt="OneEyeX" width="400" /></p>
 
 <!--  <p>  <img src="https://github-readme-stats.vercel.app/api?username=OneEyeX&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  alt="stats graph" /></p> -->
  
-   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OneEyeX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false"  alt="languages graph" /></p>
+   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OneEyeX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false"   alt="languages graph" /></p>
  
 </div>
 
