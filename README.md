@@ -221,6 +221,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneEyeX&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneEyeX&langs_count=8&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<div>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OneEyeX" alt="OneEyeX" /></a> </p>
+</div>
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=OneEyeX&show_icons=true&theme=dracula&locale=en" alt="OneEyeX" width="400" /></p>
